@@ -1,1 +1,1 @@
-script that list all files even hidden in /boot
+12. File type
