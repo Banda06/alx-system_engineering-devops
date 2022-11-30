@@ -1,1 +1,1 @@
-Write a script that changes the working directory to the previous one.
+script that list all files even hidden in /boot
