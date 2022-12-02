@@ -1,2 +1,2 @@
-#!/bin/ban
+#!/bin/bash
 chown betty hello
