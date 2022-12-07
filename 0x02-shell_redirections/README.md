@@ -1,1 +1,1 @@
-duplicate last line
+Being unique is better than perfect
