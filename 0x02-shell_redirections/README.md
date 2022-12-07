@@ -1,1 +1,1 @@
-Being unique is better than perfect
+Display lines containing the pattern from the file
