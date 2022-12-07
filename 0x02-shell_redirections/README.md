@@ -1,1 +1,1 @@
-Without C, you would live in hiago
+Script that displays all users and their home directories, sorted by users
