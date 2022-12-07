@@ -1,1 +1,1 @@
-No more javasript
+make count of directories
