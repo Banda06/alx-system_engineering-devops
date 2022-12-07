@@ -1,1 +1,1 @@
-make count of directories
+duplicate last line
