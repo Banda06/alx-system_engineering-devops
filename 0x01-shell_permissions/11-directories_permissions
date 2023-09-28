@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 444 -r --reference=file
+chmod 444 -R a+X
